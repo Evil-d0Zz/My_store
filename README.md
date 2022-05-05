@@ -1,10 +1,10 @@
 # My Store
 
 ## 📚 Abount
-Simple and lightweight store that will help you install software quickly and easily.
+Simple and lightweight store that will help you install software quickly and easily on Linux.
 
 ##  ¯\_( ͡❛ ͜ʖ ͡❛)_/¯ What can this tool contribute to the community?
-This tool will help beginners who are not used to the installation of programs.
+This tool will help beginners who are not used to installing programs on Linux.
 
 ## 🔨 Tools
 
