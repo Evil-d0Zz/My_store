@@ -42,7 +42,7 @@ def arch_linux_menu():
 
         """)
             cmd = str(input('===> '))
-            if cmd == '':
+            if cmd == '1':
                 system('yay -S brave-bin')
             elif cmd == '2':
                 system('git clone https://aur.archlinux.org/tor-browser.git ; cd tor-browser ; makepkg -si')
